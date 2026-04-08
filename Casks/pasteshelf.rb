@@ -1,8 +1,8 @@
 cask "pasteshelf" do
-  version "0.1.0"
-  sha256 "4113b67ce36243daac3416233cde92f89a6f4731ec2bbd74b478dfbdfee6e488"
+  version "1.0.2"
+  sha256 "05925f28a1acc19f6adf78c961263f3e230e565948e47184ae8c9c185c0eb982"
 
-  url "https://github.com/pasteshelf/PasteShelf/releases/download/v#{version}/PasteShelf-#{version}.dmg"
+  url "https://github.com/pasteshelf/PasteShelf/releases/download/v#{version}/PasteShelf.dmg"
   name "PasteShelf"
   desc "Privacy-first clipboard manager for macOS"
   homepage "https://github.com/pasteshelf/PasteShelf"
