@@ -1,6 +1,6 @@
 cask "pasteshelf" do
-  version "1.0.12"
-  sha256 "a5e7a672e3097e1f8975feedaa6601fb30b423dc933b5536ca18b54a355c429b"
+  version "1.0.13"
+  sha256 "a46c2df1b400f88817bb22b9f2a2d6a6fe55e84ba93ef5a106a77ee557a08a62"
 
   url "https://github.com/pasteshelf/PasteShelf/releases/download/v#{version}/PasteShelf.dmg"
   name "PasteShelf"
