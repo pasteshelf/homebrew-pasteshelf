@@ -7,7 +7,7 @@ cask "pasteshelf" do
   desc "Privacy-first clipboard manager for macOS"
   homepage "https://github.com/pasteshelf/PasteShelf"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "PasteShelf.app"
 
